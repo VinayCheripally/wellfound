@@ -7,6 +7,7 @@ Setup and Running Instructions
 Install the required dependencies:
 
 cd wellfound
+
 pip install fastapi uvicorn pymongo pydantic
 
 Replace <your_mongodb_connection_string> with your MongoDB connection string in the .env file.
